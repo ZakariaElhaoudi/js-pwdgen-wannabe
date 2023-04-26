@@ -17,7 +17,7 @@ favoriteColor = prompt("Inserisci il tuo colore preferito");
 console.log(favoriteColor);
 
 // Infine scrivi sulla pagina nomecognomecolorepreferito21
-document.getElementById("password").innerHTML=("Password consigliata:") + nameuser + lastNameUser + favoriteColor + 21 ;
+document.getElementById("password").innerHTML=("Password consigliata: ") + nameuser + lastNameUser + favoriteColor + 21 ;
 
 // DEBUG 
 // document.getElementById("test").innerHTML= "ciao gianni"
